@@ -1,5 +1,7 @@
 # Assessment Dimensions for Graduate-Level Neuropsychology Essays
 
+[Summary](0-assessment-dimensions-summary.md) | [Main](0-assessment-dimensions.md) | [Disclaimer](0-disclaimer.md) | [References](0-enhanced-references.md)
+
 ## Core Evaluation Areas
 
 1. **[Critical Analysis](1-critical-analysis-evaluation.md)** [(examples)](1-critical-analysis-examples.md)
