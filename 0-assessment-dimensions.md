@@ -32,7 +32,7 @@
    - Use of transitions
    - Balance between sections
 
-5. **[Academic Writing Style](5-academic-writing-evaluation.md)** [(examples)](5-academic-writing-examples.md)
+5. **[Academic Writing Style](5-writing-style-evaluation.md)** [(examples)](5-writing-style-examples.md)
    - Clarity of expression
    - Appropriate academic tone
    - Correct use of terminology
