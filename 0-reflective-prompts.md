@@ -1,3 +1,5 @@
+[← Back to Assessment Dimensions](0-assessment-dimensions.md)
+
 # Reflective Prompts for Essay Development
 
 ## Understanding Your Core Purpose

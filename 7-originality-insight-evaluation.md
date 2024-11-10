@@ -1,3 +1,5 @@
+[← Back to Assessment Dimensions](0-assessment-dimensions.md)
+
 # Originality and Insight Evaluation
 ## Dimension 7: Novel Connections and Independent Thinking
 

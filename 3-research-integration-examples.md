@@ -1,3 +1,5 @@
+[← Back to Assessment Dimensions](0-assessment-dimensions.md)
+
 # Research Integration Examples
 ## Dimension 3: Use and Integration of Research Literature
 

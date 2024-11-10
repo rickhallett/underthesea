@@ -1,3 +1,5 @@
+[← Back to Assessment Dimensions](0-assessment-dimensions.md)
+
 # Quick Reference Guide: Assessment Dimensions Analysis
 
 ## Core Patterns of Excellence vs. Weakness

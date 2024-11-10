@@ -1,3 +1,5 @@
+[← Back to Assessment Dimensions](0-assessment-dimensions.md)
+
 # Enhanced Reference Guide for ADHD Research
 
 ## Neural Network Dynamics

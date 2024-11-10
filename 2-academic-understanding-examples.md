@@ -1,3 +1,5 @@
+[← Back to Assessment Dimensions](0-assessment-dimensions.md)
+
 # Academic Understanding Examples
 ## Dimension 2: Comprehension of Core Concepts
 
