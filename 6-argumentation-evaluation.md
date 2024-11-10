@@ -1,5 +1,7 @@
 [← Back to Assessment Dimensions](0-assessment-dimensions.md)
 
+[See also: Examples](6-argumentation-examples.md)
+
 # Argumentation Evaluation
 ## Dimension 6: Development and Support of Arguments
 

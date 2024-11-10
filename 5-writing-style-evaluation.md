@@ -1,5 +1,7 @@
 [← Back to Assessment Dimensions](0-assessment-dimensions.md)
 
+[See also: Examples](5-writing-style-examples.md)
+
 # Academic Writing Style Evaluation
 ## Dimension 5: Expression, Tone, and Technical Writing
 

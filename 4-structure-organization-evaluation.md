@@ -1,5 +1,7 @@
 [← Back to Assessment Dimensions](0-assessment-dimensions.md)
 
+[See also: Examples](4-structure-organization-examples.md)
+
 # Structure and Organization Evaluation
 ## Dimension 4: Logical Flow and Document Organization
 

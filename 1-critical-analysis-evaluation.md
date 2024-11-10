@@ -1,5 +1,7 @@
 [← Back to Assessment Dimensions](0-assessment-dimensions.md)
 
+[See also: Examples](1-critical-analysis-examples.md)
+
 # Critical Analysis Evaluation
 ## Dimension 1: Analysis of Theoretical Frameworks and Evidence
 

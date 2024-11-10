@@ -1,5 +1,7 @@
 [← Back to Assessment Dimensions](0-assessment-dimensions.md)
 
+[See also: Examples](8-technical-requirements-examples.md)
+
 # Technical Requirements Evaluation 
 ## Dimension 8: Formatting, References, and Professional Standards
 
